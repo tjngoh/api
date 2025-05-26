@@ -54,9 +54,10 @@ Este projeto consiste em uma API simples para gerenciar uma lista de alunos, des
 
 ---
 
-## portas
+## Servidores
 
-🔗 [Guia do Idoso](https://tjngoh.github.io/Guia-do-idoso/)
+🔗 [frontend](http://localhost:3001/alunos)
+🔗 [backend](http://localhost:3000/alunos)
 
 ---
 ## Estrutura do Projeto
